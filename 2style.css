@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color:indigo;
+    animation-name:e ;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    padding: 0;
+    
+}
+
+@keyframes mymove{}
+  
+.header{
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.y {
+    background-image: url('IMG_20200814_122141_061.jpg');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    position: relative;
+    left: 550px;
+    width: 500px;
+    height: 500px;
+    }
+
+    
+.footer{
+   background-color:rgba(128, 0, 128, 0.116);
+   text-align: center;
+   padding:3px ;
+   color:green;
+
+}
